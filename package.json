@@ -1,10 +1,5 @@
 {
-  "name": "demo-github-profile-starter",
-  "author": {
-    "name": "Colby Fayock",
-    "email": "hello@colbyfayock.com",
-    "url": "https://twitter.com/colbyfayock"
-  },
+  "name": "github-profile-generator",
   "private": true,
   "license": "MIT",
   "scripts": {
