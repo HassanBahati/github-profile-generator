@@ -1,4 +1,4 @@
-# Demo GitHub Profile Starter
+# Github profile generator
 
 ## ⚡️ Quick Start
 
